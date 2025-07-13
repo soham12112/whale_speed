@@ -1,0 +1,33 @@
+# Core ML/DL Libraries
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Computer Vision
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+Pillow>=8.0.0
+
+# PTL-Flow (Optical Flow Library)
+# Install from source: git+https://github.com/hmorimitsu/ptlflow.git
+# Or install via pip: pip install ptlflow
+ptlflow>=0.4.0
+
+# Additional dependencies for PTL-Flow
+jsonargparse>=4.0.0
+loguru>=0.6.0
+requests>=2.25.0
+pytorch-lightning>=1.7.0
+
+# Optional but recommended for better performance
+# CUDA support (if available)
+# These will be installed automatically with torch if CUDA is available
+# nvidia-ml-py3  # For GPU monitoring
+# cupy-cuda11x   # For CUDA acceleration (adjust version as needed)
+
+# Development tools (optional)
+# pytest>=6.0.0
+# black>=22.0.0
+# flake8>=4.0.0 

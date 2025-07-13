@@ -1,0 +1,6 @@
+ambush_2
+bamboo_2
+cave_2
+market_2
+shaman_2
+temple_2
