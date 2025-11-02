@@ -1,4 +1,4 @@
-# Whale Speed Estimation with Machine Learning
+# Whale Speed Estimation with Optical Flow + CNN
 
 A machine learning system for estimating whale movement speed from video footage using optical flow analysis and convolutional neural networks.
 
